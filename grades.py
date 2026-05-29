@@ -1,5 +1,5 @@
+# gradebook v1.0 - 1주차 실습 완료
 SUBJECTS = ["국어", "영어", "수학", "과탐"]
-
 
 def get_scores():
     """4개 과목의 점수를 입력받아 딕셔너리로 반환한다."""
@@ -50,3 +50,5 @@ if __name__ == "__main__":
     highest, lowest = find_highest_lowest(scores)
     print(f"\n최고점: {highest} ({scores[highest]:.1f}점)")
     print(f"최저점: {lowest} ({scores[lowest]:.1f}점)")
+
+    
