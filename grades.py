@@ -1,3 +1,4 @@
+# gradebook v1.1 — 2주차 실습 시작
 # gradebook v1.0 - 1주차 실습 완료
 SUBJECTS = ["국어", "영어", "수학", "과탐"]
 
